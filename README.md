@@ -19,14 +19,14 @@ This project aims to develop a real-time sign language detection and translation
 <img src="Screenshots/S3.png"><br>
 <br>
 4. Paste the command <br>
-`git clone https://github.com/Rupa-Rd/Sign_Conversion_YoloV5.git`
-5. Check whether all the files present in the repository got cloned into your local machine
+`git clone https://github.com/Rupa-Rd/Sign_Conversion_YoloV5.git` <br>
+5. Check whether all the files present in the repository got cloned into your local machine<br>
 <img src="Screenshots/S4.png">
 
 ### Create a Virtual Environment
 In the Terminal type<br>
 `python -m venv sign`<br>
-This will create a python virtual environment named `sign`
+This will create a python virtual environment named `sign`<br>
 <img src="Screenshots/S5.png">
 
 
