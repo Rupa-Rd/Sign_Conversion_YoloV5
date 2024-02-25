@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Colab_Notebooks/Yolov5/data/images
+train: train/images
+test: test/images
+val: valid/images
+
+nc: 5
+names: ['Hello', 'Thank you', 'Good', 'Morning', 'Sorry']
